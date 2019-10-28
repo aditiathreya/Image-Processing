@@ -1,1 +1,1 @@
-“Dynamic forensic sketch recognition”-Automated identification of people based on their sketches.
+“Dynamic forensic sketch recognition”-Recognising people automatically based on their sketches.
